@@ -3,7 +3,6 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/Pranay5463/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=avipatilpro&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="pranay5463" /></a> </p><br>
 
 <img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
 
