@@ -4,7 +4,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
+<img src="https://firebasestorage.googleapis.com/v0/b/creature-zx.appspot.com/o/1653618783jq9j?alt=media&token=0101b5a8-d94a-4548-9263-e78f373fc353">
 
 ## Info
 
