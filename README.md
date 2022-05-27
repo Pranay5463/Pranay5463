@@ -11,6 +11,11 @@
 I am Pranay , A Learning Programmer From India.
 Let Me Introduce Myself To You 👻
 
+## Support Me 
+[![Buy me a coffee ☕](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pranayprangan)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pranayprangan)
+
+
 ### What Makes Me Special
 - :computer: All My Projects Are Here On Github.
 - :school: Always Ready To Help You.
