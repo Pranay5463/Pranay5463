@@ -14,7 +14,7 @@ Let Me Introduce Myself To You 👻
 ## Support Me 
 [![Buy me a coffee ☕](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pranayprangan)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pranayprangan)
-
+[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/3cseW38nKdc74Rq4gg)
 
 ### What Makes Me Special
 - :computer: All My Projects Are Here On Github.
